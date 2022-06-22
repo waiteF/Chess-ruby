@@ -1,3 +1,3 @@
 # Chess-ruby
-Management with PgUp, PgDn, PgLeft, PgRight (arrows). Enter - confirm actions
+Management with Up, left, right, down (arrows). Enter - confirm actions
 Start gaming - ruby chess.rb
